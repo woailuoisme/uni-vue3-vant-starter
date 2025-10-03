@@ -11,6 +11,19 @@
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",
 		"navigationBarBackgroundColor": "#F8F8F8",
-		"backgroundColor": "#F8F8F8"
+		"backgroundColor": "#F8F8F8",
+		"usingComponents": {
+			"van-button": "/wxcomponents/vant/lib/button/index",
+			"van-cell-group": "/wxcomponents/vant/lib/cell-group/index",
+			"van-field": "/wxcomponents/vant/lib/field/index",
+			"van-switch": "/wxcomponents/vant/lib/switch/index",
+			"van-rate": "/wxcomponents/vant/lib/rate/index",
+			"van-tabs": "/wxcomponents/vant/lib/tabs/index",
+			"van-tab": "/wxcomponents/vant/lib/tab/index",
+			"van-toast": "/wxcomponents/vant/lib/toast/index",
+			"van-notify": "/wxcomponents/vant/lib/notify/index",
+			"van-dialog": "/wxcomponents/vant/lib/dialog/index",
+			"van-loading": "/wxcomponents/vant/lib/loading/index"
+		}
 	}
 }
